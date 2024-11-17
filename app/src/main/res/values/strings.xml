@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetailPro</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_about">About Me</string>
+
+    <string name="about_name">Fausta Raihan Maulana</string>
+    <string name="about_nim">21120122130048</string>
+</resources>
